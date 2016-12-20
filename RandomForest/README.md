@@ -1,5 +1,7 @@
+
 RandomForest
 ============
 
-For High Performance Computing course project in Fall 2012.
-Hadoop implementation for Random Forest Classifier.
+For SYSU CCAPP lesson project
+
+Thanks to [joeyhng](https://github.com/joeyhng)/**RandomForest**
